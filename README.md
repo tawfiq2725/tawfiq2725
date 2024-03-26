@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack development
 - 💞️ I’m looking to collaborate on MERN developers
 - 📫 Contact me on tawfiqsiraj003003@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: Set Goal || Affirmation || Networking || Take Rejection
 - ⚡ fact: Consistency only way to success
 <!---
 tawfiq2725/tawfiq2725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
