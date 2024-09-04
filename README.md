@@ -19,7 +19,7 @@
 
 ### 📫 How to Reach Me
 - ✉️ Drop me an email: [tawfiqsiraj003003@gmail.com](mailto:tawfiqsiraj003003@gmail.com)
-- 💬 Let's connect on [LinkedIn]((https://www.linkedin.com/in/tawfiqsirajudeen2527/))
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/tawfiqsirajudeen2527/)
 
 ---
 
