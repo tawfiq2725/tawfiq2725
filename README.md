@@ -11,17 +11,6 @@
 
 ---
 
-### 🌱 What I'm Working On
-- 🔥 Currently diving deep into **MERN stack development**.
-- 💬 Looking forward to collaborating with fellow MERN developers on exciting projects.
-
----
-
-### 📫 How to Reach Me
-- ✉️ Drop me an email: [tawfiqsiraj003003@gmail.com](mailto:tawfiqsiraj003003@gmail.com)
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/tawfiqsirajudeen2527/)
-
----
 
 ### 💡 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,5 +28,17 @@
 
 ---
 
+### 📫 How to Reach Me
+- ✉️ Drop me an email: [tawfiqsiraj003003@gmail.com](mailto:tawfiqsiraj003003@gmail.com)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/tawfiqsirajudeen2527/)
+
+---
+
 ### ⚡ Fun Fact
 - I believe in the power of **consistency**. Every step, no matter how small, is a step towards success.
+
+---
+
+### Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
+
